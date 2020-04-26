@@ -43,6 +43,8 @@ If you have any questions regarding setup or on any of the learning modules, I w
 
 ## To begin
 
+
+
 You will notice at the top of the page there are directories for each learning module. To begin, please click on Module 1 to start.
 
 ## When you are finished
